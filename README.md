@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RSD-developer
+- 👋 Hi, I’m RAJAT SHARMA FOUNDER @RSD-developer COMMUNITY
 - 👀 I’m interested in ...AI & Machine learning.
 - 🌱 I’m currently learning ... Google cloud, Microsoft Azure.
 - 💞️ I’m looking to collaborate on ...
